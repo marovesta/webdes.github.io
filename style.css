@@ -1,0 +1,26 @@
+body,html{
+	background: url(bgdark.webp) no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+}
+h1{
+	color: #fff;
+}
+hr{
+	border-color: #833471;
+	border-width: 5px;
+	max-width: 70px;
+}
+.mbtn{
+	padding: 10px 15px;
+	border-radius: 25px;
+	background-color: #833471;
+	border-color: #833471;
+}
+.mbtn:hover{
+	background-color: #6F1E51;
+	border-color: #6F1E51;
+}
+.buffer{
+	height: 10rem;
+}
